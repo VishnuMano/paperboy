@@ -16,7 +16,7 @@ load_dotenv()
 api_key = os.getenv('NEWS_API_KEY')
 
 # city = input("City: ")
-city = "Grand Rapids, MI"
+city = "Atlanta, GA"
 
 params = {
   "api_key": api_key,
