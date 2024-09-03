@@ -1,0 +1,1317 @@
+{
+    "search_metadata": {
+        "id": "66d090f6db3ac9fb862889e2",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a87a64ca906bc6af/66d090f6db3ac9fb862889e2.json",
+        "created_at": "2024-08-29 15:17:10 UTC",
+        "processed_at": "2024-08-29 15:17:10 UTC",
+        "google_news_url": "https://news.google.com/search?q=Grand+Rapids%2C+MI&gl=US",
+        "raw_html_file": "https://serpapi.com/searches/a87a64ca906bc6af/66d090f6db3ac9fb862889e2.html",
+        "total_time_taken": 1.21
+    },
+    "search_parameters": {
+        "engine": "google_news",
+        "gl": "us",
+        "q": "Grand Rapids, MI"
+    },
+    "news_results": [
+        {
+            "position": 1,
+            "title": "Motorcyclist, 21, dead in crash with car along Michigan Street",
+            "source": {
+                "name": "WZZM13.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wzzm13.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Riley Mack"
+                ]
+            },
+            "link": "https://www.wzzm13.com/article/news/local/motorcyclist-dead-after-crash-grand-rapids/69-440fb21f-f802-4d52-9de2-ae4af2adaf5a",
+            "thumbnail": "https://media.wzzm13.com/assets/WZZM/images/df854b9e-9136-4469-9e6e-40eb4af17337/20240828T183734/df854b9e-9136-4469-9e6e-40eb4af17337_1140x641.jpg",
+            "date": "08/28/2024, 06:42 PM, +0000 UTC"
+        },
+        {
+            "position": 2,
+            "title": "Former Michigan corrections officer accused of exploiting young girl in New York",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Bradley Massman"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/ex-corrections-officer-in-michigan-accused-of-exploiting-young-girl-in-new-york.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/A4BSU24ILBGMVLH7OZJTBI4Q2A.png?auth=15d9d95260aaf22cfb864e54be1b1db434063e6e8feb73453593d7d38c16c59e&width=1280&quality=90",
+            "date": "08/28/2024, 06:28 PM, +0000 UTC"
+        },
+        {
+            "position": 3,
+            "title": "$700M plan to 'transform' Grand Rapids with soccer arena, concert districts",
+            "source": {
+                "name": "Bridge Michigan",
+                "icon": "https://lh3.googleusercontent.com/ocqD7Qq8i5RqE82PPUZPq6P_AAAuKT5d9ru1Let4LcIvaPLZB9xO5fur-gipRXrWgfBSVRxPEZ0",
+                "authors": [
+                    "Paula Gardner"
+                ]
+            },
+            "link": "https://www.bridgemi.com/business-watch/700m-plan-transform-grand-rapids-soccer-arena-concert-districts",
+            "thumbnail": "https://www.bridgemi.com/sites/default/files/styles/full_width_image/public/2024-08/GR%20soccer.jpg?itok=uZU2IIv3",
+            "date": "08/27/2024, 08:07 PM, +0000 UTC"
+        },
+        {
+            "position": 4,
+            "title": "State board approves incentives for projects in Grand Rapids, Northville",
+            "source": {
+                "name": "Detroit News",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.detroitnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Candice Williams"
+                ]
+            },
+            "link": "https://www.detroitnews.com/story/news/local/michigan/2024/08/27/state-board-approves-incentives-for-projects-in-grand-rapids-northville/74963975007/",
+            "thumbnail": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/07/02/PDTN/74285460007-20240702-nh-northville-downs-050.jpg?width=1733&height=1157&fit=crop&format=pjpg&auto=webp",
+            "date": "08/27/2024, 10:12 PM, +0000 UTC"
+        },
+        {
+            "position": 5,
+            "title": "Grand Rapids, other cities granted $275M for development projects",
+            "source": {
+                "name": "The Center Square",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thecentersquare.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Therese Boudreaux"
+                ]
+            },
+            "link": "https://www.thecentersquare.com/michigan/article_481ebb14-6555-11ef-b628-5f3f20f6bdf7.html",
+            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/3/86/386a0c3c-4a98-11ef-97f3-6728c8944be6/66a26b690dc87.image.jpg?crop=1080%2C1080%2C420%2C0&resize=1200%2C1200&order=crop%2Cresize",
+            "date": "08/28/2024, 04:52 PM, +0000 UTC"
+        },
+        {
+            "position": 6,
+            "title": "7 Best Hangout Spots For Adults In Grand Rapids",
+            "source": {
+                "name": "97.9 WGRD",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://wgrd.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Tommy Mcneill"
+                ]
+            },
+            "link": "https://wgrd.com/gr-adult-hangout-spots/",
+            "thumbnail": "https://townsquare.media/site/43/files/2024/08/attachment-adult-hangout-spots.jpg?w=780&q=75",
+            "date": "08/28/2024, 08:47 PM, +0000 UTC"
+        },
+        {
+            "position": 7,
+            "title": "State board approves $252M incentive plan for Grand Rapids stadiums, housing towers",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Brian Mcvicar"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/state-board-approves-252m-incentive-plan-for-grand-rapids-stadiums-housing-towers.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/DBLPFJPNWZBSNJQSFCXEYBIJRQ.jpg?auth=e76b2e87ca4112b17447bd3725532cdaeefecc8c0198b7042db2a3708e2cbf19&width=1280&quality=90",
+            "date": "08/27/2024, 03:34 PM, +0000 UTC"
+        },
+        {
+            "position": 8,
+            "title": "Michigan Strategic Fund approves 2 major projects in Grand Rapids and Greenville",
+            "source": {
+                "name": "WZZM13.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wzzm13.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Steven Bohner"
+                ]
+            },
+            "link": "https://www.wzzm13.com/article/money/economy/michigan-strategic-fund-approves-major-projects-west-michigan/69-970745d0-e41c-4824-bc8e-33be61ffe2f2",
+            "thumbnail": "https://media.wzzm13.com/assets/WZZM/images/de271e29-9b6e-4c08-bca4-4b1773dfb47b/20240521T234742/de271e29-9b6e-4c08-bca4-4b1773dfb47b_750x422.jpg",
+            "date": "08/27/2024, 08:09 PM, +0000 UTC"
+        },
+        {
+            "position": 9,
+            "title": "Husband of VP Kamala Harris to campaign in Grand Rapids Thursday",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Justin Engel"
+                ]
+            },
+            "link": "https://www.mlive.com/politics/2024/08/husband-of-vp-kamala-harris-to-campaign-in-grand-rapids-thursday.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/ZIJBNEVYHFH5LMCU75YOIQMFUM.jpg?auth=4f49f5b3d1f741889f3b9b28a0f2212bc5228322982301139806cc254691adec&width=1280&quality=90",
+            "date": "08/26/2024, 07:09 PM, +0000 UTC"
+        },
+        {
+            "position": 10,
+            "title": "Trump says presidential debate with Harris will happen in Grand Rapids",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Bradley Massman"
+                ]
+            },
+            "link": "https://www.mlive.com/politics/2024/08/trump-says-presidential-debate-with-harris-will-happen-in-grand-rapids.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/UVV2652CMBGNTLEIY675UN3RKQ.JPG?auth=fa9d016b7f4454cb132ee18497de535910bf9ae612d44f14cd6d3bfdd2210e37&width=1280&quality=90",
+            "date": "08/11/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 11,
+            "title": "Storm Team 8 Forecast",
+            "source": {
+                "name": "WOODTV.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.woodtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.woodtv.com/weather/forecast/storm-team-8-forecast/",
+            "thumbnail": "https://www.woodtv.com/wp-content/uploads/sites/51/2024/06/forecast-daybreak-082924.png?strip=1",
+            "date": "08/29/2024, 12:18 PM, +0000 UTC"
+        },
+        {
+            "position": 12,
+            "title": "Michigan mother charged with murder, child abuse in death of one-year-old daughter",
+            "source": {
+                "name": "WWMT-TV",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://wwmt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Katie Sergent",
+                    "Carter Landis"
+                ]
+            },
+            "link": "https://wwmt.com/news/local/brooklynne-davis-murder-child-abuse-grand-rapids-eastern-avenue-logan-street-crime-investigation-police-daughter-death-son-critical-condition-medical-charges-kent-county-west-michigan",
+            "thumbnail": "https://wwmt.com/resources/media2/16x9/1920/986/center/90/a0820409-216a-4f0d-b2ed-ddbcd30d5f14-child.png",
+            "date": "08/28/2024, 10:30 PM, +0000 UTC"
+        },
+        {
+            "position": 13,
+            "title": "Mom charged in 1-year-old daughter's death, twin brother in critical condition",
+            "source": {
+                "name": "FOX 17 West Michigan News",
+                "icon": "https://lh3.googleusercontent.com/OET-_MaH3pyCyahcwK_5h_zBFOIJQgHcq9bPlb-w5oq_dA0Iv2D_5SN6OLkkkKqsoD3-IbvoSCY"
+            },
+            "link": "https://www.fox17online.com/news/local-news/grand-rapids/mom-charged-in-1-year-old-daughters-death-twin-brother-in-critical-condition",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/93d209d/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F03%2Ffe%2F8b9f8a374df7be8b2763645ad411%2Fbrooklynne-davis-mug-for-web.png",
+            "date": "08/28/2024, 07:29 PM, +0000 UTC"
+        },
+        {
+            "position": 14,
+            "title": "Toddler girl starved in apartment filled with bed bugs and feces, police say",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "John Tunison"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/toddler-girl-starved-in-apartment-filled-with-bed-bugs-and-feces-police-say.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/JRYNBORTZVG77P46WM62LDLDEQ.jpg?auth=39458d8c1c58a11a0515e1c212a322d67784beaabc4a49d4090db72bc750abb9&width=1280&quality=90",
+            "date": "08/28/2024, 07:16 PM, +0000 UTC"
+        },
+        {
+            "position": 15,
+            "title": "Why JD Vance is coming to Big Rapids: Electric vehicles and China",
+            "source": {
+                "name": "Detroit Free Press",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Dave Boucher"
+                ]
+            },
+            "link": "https://www.freep.com/story/news/politics/2024/08/27/why-jd-vance-is-coming-to-big-rapids/74954786007/",
+            "thumbnail": "https://www.freep.com/gcdn/authoring/authoring-images/2024/08/07/PDTF/74706507007-08072024-jd-vance-drm-015.JPG?crop=3199,1800,x0,y171&width=660&height=371&format=pjpg&auto=webp",
+            "date": "08/27/2024, 10:10 AM, +0000 UTC"
+        },
+        {
+            "position": 16,
+            "title": "GRPD: Man killed in car, motorcycle crash",
+            "source": {
+                "name": "WOODTV.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.woodtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Anna Skog",
+                    "Katie Rosendale"
+                ]
+            },
+            "link": "https://www.woodtv.com/news/grand-rapids/grpd-one-dead-in-crash-involving-motorcycle/",
+            "thumbnail": "https://www.woodtv.com/wp-content/uploads/sites/51/2024/08/TVU5-JBL-MICHIGAN-FATAL-MIGRAOF1ENC001_mpg_00.02.19.09.jpg?strip=1",
+            "date": "08/28/2024, 07:36 PM, +0000 UTC"
+        },
+        {
+            "position": 17,
+            "title": "Police identify woman, 18, killed in Grand Rapids crash",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Bradley Massman"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/police-identify-woman-18-killed-in-grand-rapids-crash.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/BHAGRY2B2BGZNB53ZN2WUK2EYI.jpg?auth=fe26403cab012d6948f58bb4ead0b8f073c8b41384740872389ed573febb3ac8&width=1280&quality=90",
+            "date": "08/26/2024, 05:20 PM, +0000 UTC"
+        },
+        {
+            "position": 18,
+            "title": "'Absolutely horrific scene': Police chief on child abuse case that leaves 19-month-old dead",
+            "source": {
+                "name": "FOX 17 West Michigan News",
+                "icon": "https://lh3.googleusercontent.com/OET-_MaH3pyCyahcwK_5h_zBFOIJQgHcq9bPlb-w5oq_dA0Iv2D_5SN6OLkkkKqsoD3-IbvoSCY"
+            },
+            "link": "https://www.fox17online.com/news/local-news/absolutely-horrific-scene-police-chief-on-child-abuse-case-that-leaves-19-month-old-dead",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/94a4d0c/2147483647/strip/true/crop/1258x660+0+19/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa7%2F0e%2F5c7bffd44207ac54c89a56095aeb%2Fpolice-cheif-winstrom.png",
+            "date": "08/28/2024, 08:31 PM, +0000 UTC"
+        },
+        {
+            "position": 19,
+            "title": "Court docs say 19-month-old baby found dead in Grand Rapids apartment weighed only 13 pounds",
+            "source": {
+                "name": "WZZM13.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wzzm13.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Riley Mack"
+                ]
+            },
+            "link": "https://www.wzzm13.com/article/news/local/woman-24-arrested-for-suspected-child-abuse-in-baby-death-grand-rapids/69-2bbeabd5-b1e5-4bb4-9355-66189a544500",
+            "thumbnail": "https://media.wzzm13.com/assets/WZZM/images/f8c2f11d-b54e-4d66-8b43-7b84d1d5178a/20240828T222124/f8c2f11d-b54e-4d66-8b43-7b84d1d5178a_1920x1080.jpg",
+            "date": "08/28/2024, 04:39 PM, +0000 UTC"
+        },
+        {
+            "position": 20,
+            "title": "Traffic slowed on I-196 after crashes in both directions",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "John Agar"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/traffic-slowed-on-i-196-after-crashes-in-both-directions.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/MBPTJ7JFSRAXPOWYWRI4YVSCVE.jpg?auth=32dd98eb4862916828568eb6b13f08a492be0f0d80ef014745309f3572699012&width=1280&quality=90",
+            "date": "08/27/2024, 10:10 PM, +0000 UTC"
+        },
+        {
+            "position": 21,
+            "title": "GRPD: Mother arrested in death of 18-month-old daughter",
+            "source": {
+                "name": "WOODTV.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.woodtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Katie Rosendale",
+                    "Michael Oszust",
+                    "Meghan Bunchman"
+                ]
+            },
+            "link": "https://www.woodtv.com/news/grand-rapids/grpd-mother-arrested-in-death-of-19-month-old-daughter/",
+            "thumbnail": "https://www.woodtv.com/wp-content/uploads/sites/51/2024/08/Brooklyne-Davis-082824.png?strip=1",
+            "date": "08/28/2024, 04:37 PM, +0000 UTC"
+        },
+        {
+            "position": 22,
+            "title": "Motorcyclist dies after crashing with vehicle in NE Grand Rapids",
+            "source": {
+                "name": "FOX 17 West Michigan News",
+                "icon": "https://lh3.googleusercontent.com/OET-_MaH3pyCyahcwK_5h_zBFOIJQgHcq9bPlb-w5oq_dA0Iv2D_5SN6OLkkkKqsoD3-IbvoSCY"
+            },
+            "link": "https://www.fox17online.com/news/local-news/grand-rapids/motorcyclist-dies-after-crashing-with-vehicle-in-ne-grand-rapids",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/7cabdbf/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.fox17online.com%2Ftribune-network%2Ftribwxmi-files-wordpress%2F2019%2F09%2Fgrpd-grand-rapids-police-generic-2.jpg",
+            "date": "08/28/2024, 08:47 PM, +0000 UTC"
+        },
+        {
+            "position": 23,
+            "title": "Motorcyclist dies in Grand Rapids collision with vehicle",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Justin Engel"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/motorcyclist-dies-in-grand-rapids-collision-with-vehicle.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/LEU4PDOM5JAGLP2T4V7AVAGZ64.jpg?auth=0b373d013e69cb14f1287ef6f699aee0a085ea251f90fcf12afe08c4452e2236&width=1280&quality=90",
+            "date": "08/28/2024, 10:53 PM, +0000 UTC"
+        },
+        {
+            "position": 24,
+            "title": "Second Gentleman Emhoff to make campaign stop in Grand Rapids this week",
+            "source": {
+                "name": "FOX 17 West Michigan News",
+                "icon": "https://lh3.googleusercontent.com/OET-_MaH3pyCyahcwK_5h_zBFOIJQgHcq9bPlb-w5oq_dA0Iv2D_5SN6OLkkkKqsoD3-IbvoSCY"
+            },
+            "link": "https://www.fox17online.com/news/national-politics/america-votes/second-gentleman-emhoff-to-make-campaign-stop-in-grand-rapids-this-week",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/b41fb75/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc8%2F21%2F1d33377745a6836534875ef239b6%2Fap24209728522308.jpg",
+            "date": "08/26/2024, 08:52 PM, +0000 UTC"
+        },
+        {
+            "position": 25,
+            "title": "Grand Rapids mother charged as toddler dies in \u2018horrific\u2019 child abuse case",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "John Tunison"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/grand-rapids-mother-charged-as-toddler-dies-in-horrific-child-abuse-case.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/M3NLGLAHX5F5BFQ34HNERYKW2U.png?auth=d600eb7f0a3404e90b915e7784e5b3baf08227294b28b62b9a2fd9e837e250df&width=1280&quality=90",
+            "date": "08/28/2024, 04:54 PM, +0000 UTC"
+        },
+        {
+            "position": 26,
+            "title": "Cecelia Ann Hamilton",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/cecelia-hamilton-obituary?id=56168083",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210846-1_20240828.jpgx?w=358&h=499&option=3",
+            "date": "08/28/2024, 02:22 PM, +0000 UTC"
+        },
+        {
+            "position": 27,
+            "title": "Extreme heat closes multiple West Michigan schools on Tuesday, Aug. 27",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "John Agar"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/extreme-heat-closes-multiple-west-michigan-schools-on-tuesday-aug-27.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/PWYDKRMMHFBAFPVCBQBAEGGGNU.jpeg?auth=f2f8c2c2c3a9e2b794d8c0bd08016cca4d8b3563aecfb6be77f8ad447502ee0e&width=1280&quality=90",
+            "date": "08/27/2024, 12:21 PM, +0000 UTC"
+        },
+        {
+            "position": 28,
+            "title": "JD Vance criticizes Gotion battery plant\u2019s ties to China at Big Rapids rally",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Melissa Frick"
+                ]
+            },
+            "link": "https://www.mlive.com/politics/2024/08/jd-vance-criticizes-gotion-battery-plants-ties-to-china-at-big-rapids-rally.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/GXTVBUKA3ZHXHKTD45X767JIVY.jpg?auth=0f2d0588ed9fe00ed6fa948d80b2e1f93843cb2daced7f402fbe723d8655fdff&width=1280&quality=90",
+            "date": "08/27/2024, 08:09 PM, +0000 UTC"
+        },
+        {
+            "position": 29,
+            "title": "Edward Hoezee Obituary (1939 - 2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/edward-hoezee-obituary?id=56084696",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210769-1_20240823.jpgx?w=364&h=499&option=3",
+            "date": "08/22/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 30,
+            "title": "JD Vance criticizes Gotion plant at rally near Big Rapids",
+            "source": {
+                "name": "WOODTV.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.woodtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Rachel Van Gilder",
+                    "Rick Albin",
+                    "Michael Oszust"
+                ]
+            },
+            "link": "https://www.woodtv.com/news/elections/jd-vance-to-speak-in-big-rapids-area/",
+            "thumbnail": "https://www.woodtv.com/wp-content/uploads/sites/51/2024/08/jd-vance-big-rapids-082724.jpg?strip=1",
+            "date": "08/27/2024, 08:30 AM, +0000 UTC"
+        },
+        {
+            "position": 31,
+            "title": "West Michigan schools opt for half-days, closures due to heat",
+            "source": {
+                "name": "WOODTV.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.woodtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Anna Skog",
+                    "Michael Oszust",
+                    "Josh Sanchez"
+                ]
+            },
+            "link": "https://www.woodtv.com/weather/weather-news/districts-plan-early-dismissal-tuesday-for-high-temps/",
+            "thumbnail": "https://www.woodtv.com/wp-content/uploads/sites/51/2024/08/WOOD-_-PKG-10-SCHOOLS-CLOSING-FOR-HEAT-NPO-JSA_202_00.00.47.24.jpg?strip=1",
+            "date": "08/26/2024, 07:09 PM, +0000 UTC"
+        },
+        {
+            "position": 32,
+            "title": "4 takeaways from JD Vance\u2019s rally near Big Rapids",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Melissa Frick"
+                ]
+            },
+            "link": "https://www.mlive.com/politics/2024/08/4-takeaways-from-jd-vances-rally-near-big-rapids.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/JTCDE6CZFJFOZH7DLRNR6JS4I4.jpg?auth=197b9023b234651c7d7e9663e72b2bf3a7fa104b766f4adfe92945a27ecc5872&width=1280&quality=90",
+            "date": "08/28/2024, 04:48 PM, +0000 UTC"
+        },
+        {
+            "position": 33,
+            "title": "GRPD: Woman killed in Grand Rapids car crash identified",
+            "source": {
+                "name": "WWMT-TV",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://wwmt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Katie Sergent"
+                ]
+            },
+            "link": "https://wwmt.com/news/local/brooklyn-botello-driver-grand-rapids-car-crash-breton-road-28th-street-suv-tree-single-vehicle-collision-passenger-hospital-injuries-police-department-kent-county-west-michigan",
+            "thumbnail": "https://wwmt.com/resources/media2/16x9/960/986/0x90/90/1e7e051a-bbfb-4384-af7f-d940ed9c5d9b-GrandRapidsPolice.jpg",
+            "date": "08/26/2024, 09:14 PM, +0000 UTC"
+        },
+        {
+            "position": 34,
+            "title": "Robert Smickley Obituary (1951 - 2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/robert-smickley-obituary?id=56082352",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210761-1_20240823.jpgx?w=362&h=499&option=3",
+            "date": "08/23/2024, 05:08 PM, +0000 UTC"
+        },
+        {
+            "position": 35,
+            "title": "Over 100K without power in Michigan with storms packing high winds, rain",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "John Agar"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/over-100k-without-power-in-michigan-with-storms-packing-high-winds-rain.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/V6KSCUYQVNCPNLQCIOFG7OT6TM.jpg?auth=2a0103de71619ebbc45ca0c73b77bac5984eb71fc021db2f7b0c59d6224da167&width=1280&quality=90",
+            "date": "08/27/2024, 09:02 PM, +0000 UTC"
+        },
+        {
+            "position": 36,
+            "title": "As sun sets, thousands remain in the dark following Michigan storms Tuesday",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Justin Engel"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/as-sun-sets-thousands-remain-in-the-dark-following-michigan-storms-tuesday.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/V6KSCUYQVNCPNLQCIOFG7OT6TM.jpg?auth=2a0103de71619ebbc45ca0c73b77bac5984eb71fc021db2f7b0c59d6224da167&width=1280&quality=90",
+            "date": "08/28/2024, 12:55 AM, +0000 UTC"
+        },
+        {
+            "position": 37,
+            "title": "Extreme heat forces Grand Rapids Public Schools to cancel classes Tuesday",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/extreme-heat-forces-grand-rapids-public-schools-to-cancel-classes-tuesday.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/T2OAZZEPFRCFBJNINBKNWPEAVU.jpg?auth=cc03b7284db8147d1607469c4498518db782e5961436f2574a2cd872aafdfe7e&width=1280&quality=90",
+            "date": "08/26/2024, 09:08 PM, +0000 UTC"
+        },
+        {
+            "position": 38,
+            "title": "Second Gentleman Douglas Emhoff to visit Michigan on Thursday",
+            "source": {
+                "name": "CBS News",
+                "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Dejanay Booth"
+                ]
+            },
+            "link": "https://www.cbsnews.com/detroit/news/second-gentleman-doug-emhoff-to-visit-michigan-on-thursday/",
+            "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/08/26/b153df2a-f8cb-4b83-9978-f8893227bed8/thumbnail/1200x630/b03ce9af5bf3def79e255a0fc82ec5a3/gettyimages-2167667295.jpg?v=29ebd300d9a3cd24077d945a46991f72",
+            "date": "08/27/2024, 01:47 AM, +0000 UTC"
+        },
+        {
+            "position": 39,
+            "title": "Second Gentleman Doug Emhoff to campaign in Michigan this week",
+            "source": {
+                "name": "WILX",
+                "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wilx.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.wilx.com/2024/08/26/second-gentleman-doug-emhoff-campaign-michigan-this-week/",
+            "thumbnail": "https://gray-wilx-prod.cdn.arcpublishing.com/resizer/v2/RMW6VFUTTBH2TC7FMG537DA22E.png?auth=eea550af7724bc4a6f297f3d44457e8c4ac418122a1b4b32348587ebd677cd9d&width=1200&height=600&smart=true",
+            "date": "08/26/2024, 08:20 PM, +0000 UTC"
+        },
+        {
+            "position": 40,
+            "title": "Lois Elaine VanSlyke",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/lois-vanslyke-obituary?id=56116883",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210831-1_20240827.jpgx?w=366&h=499&option=3",
+            "date": "08/27/2024, 06:45 PM, +0000 UTC"
+        },
+        {
+            "position": 41,
+            "title": "All Grand Rapids Public Schools closed Tuesday due to heat",
+            "source": {
+                "name": "WZZM13.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wzzm13.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Riley Mack"
+                ]
+            },
+            "link": "https://www.wzzm13.com/article/news/local/grand-rapids-public-schools-closes-due-to-heat/69-e3215e2d-96a7-4a69-82ef-d6d943b4a4d5",
+            "thumbnail": "https://media.wzzm13.com/assets/WZZM/images/08d48b06-e70f-41d4-8b9a-78410b483493/20240826T210528/08d48b06-e70f-41d4-8b9a-78410b483493_1920x1080.jpg",
+            "date": "08/26/2024, 08:04 PM, +0000 UTC"
+        },
+        {
+            "position": 42,
+            "title": "15,000 mussels must go as part of Grand River\u2019s rapids restoration",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Danielle James"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/15000-mussels-must-go-as-part-of-grand-rivers-rapids-restoration.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/E5AK5ADKWVGJFBXZ6MEDZSATZU.JPG?auth=8c94f29b8742f3c221b7853ea7fdf8cd4c9594b776bad1a667c78fff634074ab&width=1280&quality=90",
+            "date": "08/23/2024, 04:49 PM, +0000 UTC"
+        },
+        {
+            "position": 43,
+            "title": "In Michigan rally, JD Vance rails against China with opponents of planned EV-battery plant",
+            "source": {
+                "name": "Detroit Free Press",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Arpan Lobo"
+                ]
+            },
+            "link": "https://www.freep.com/story/news/politics/elections/2024/08/27/jd-vance-opponents-gotion-plant-rally-michigan/74965125007/",
+            "thumbnail": "https://www.freep.com/gcdn/authoring/authoring-images/2024/08/15/PDTF/74808676007-20240814-t-201247-z-1631455236-rc-2-vf-9-ahc-45-b-rtrmadp-3-usaelectionvance.JPG?crop=3221,1811,x4,y353&width=660&height=371&format=pjpg&auto=webp",
+            "date": "08/27/2024, 07:46 PM, +0000 UTC"
+        },
+        {
+            "position": 44,
+            "title": "1 dead, 1 seriously injured in crash on Grand Rapids\u2019 Southeast Side",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Bradley Massman"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/1-dead-1-seriously-injured-in-crash-on-grand-rapids-southeast-side.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/XCUOV5JZCBBY7HCOJ5Z3CXM74A.jpg?auth=c416913c46d847cb4b8355e5a0e16d9ee8b942fb7d911728ace2d2e1e6131e67&width=1280&quality=90",
+            "date": "08/23/2024, 01:19 PM, +0000 UTC"
+        },
+        {
+            "position": 45,
+            "title": "JD Vance is coming back to Michigan to talk about economy, inflation and manufacturing",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Brad Devereaux"
+                ]
+            },
+            "link": "https://www.mlive.com/politics/2024/08/jd-vance-is-coming-back-to-michigan-to-talk-about-economy-inflation-and-manufacturing.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/DIK7KRCCCVFENOMRGIY4OTW4KU.JPG?auth=ccf71e52a1c3fd6685d502d9e727b0bf65b6757f196dc46c6881a0c17a805ff6&width=1280&quality=90",
+            "date": "08/23/2024, 10:20 PM, +0000 UTC"
+        },
+        {
+            "position": 46,
+            "title": "Grand Rapids, MI \u2013 Accident Reported on Indiana Toll Rd",
+            "source": {
+                "name": "Michigan Legal Center",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.michiganlegalcenter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.michiganlegalcenter.com/2024/08/28/grand-rapids-mi-accident-reported-on-indiana-toll-rd/",
+            "thumbnail": "https://www.michiganlegalcenter.com/wp-content/uploads/2024/08/lawfirmimages-1611-2-300x200.jpg",
+            "date": "08/28/2024, 10:46 PM, +0000 UTC"
+        },
+        {
+            "position": 47,
+            "title": "Jim Vander Veen Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/jim-vander-veen-obituary?id=56105403",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210819-1_20240826.jpgx?w=358&h=500&option=3",
+            "date": "08/27/2024, 03:11 AM, +0000 UTC"
+        },
+        {
+            "position": 48,
+            "title": "Grand Rapids nonprofit leader announces retirement after 5 years",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Skyla Jewell-hammie"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/grand-rapids-nonprofit-leader-announces-retirement-after-5-years.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/BHI2GYKTF5ETTBZLNMIMXVADFE.jpg?auth=3a9244a130bbd9e6580d4caabe6c05e00834ca6e4846dca830f80e8db5ad6836&width=1280&quality=90",
+            "date": "08/27/2024, 04:44 PM, +0000 UTC"
+        },
+        {
+            "position": 49,
+            "title": "GR is preparing to send Trump an invoice for his political rally last month",
+            "source": {
+                "name": "FOX 17 West Michigan News",
+                "icon": "https://lh3.googleusercontent.com/OET-_MaH3pyCyahcwK_5h_zBFOIJQgHcq9bPlb-w5oq_dA0Iv2D_5SN6OLkkkKqsoD3-IbvoSCY",
+                "authors": [
+                    "Matt Witkos"
+                ]
+            },
+            "link": "https://www.fox17online.com/news/local-news/gr-is-preparing-to-send-trump-an-invoice-for-his-political-rally-last-month",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/41c9d8c/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F42%2Fcc%2F0e56b867490cacd875e483bb01d9%2Fharriswilmington.png",
+            "date": "08/24/2024, 01:09 AM, +0000 UTC"
+        },
+        {
+            "position": 50,
+            "title": "Lois Kolenda-Glashower Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/lois-kolenda-glashower-obituary?id=55930683",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210705-1_20240820.jpgx?w=362&h=499&option=3",
+            "date": "08/18/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 51,
+            "title": "Matthew G. LaRosa Obituary (2024) - Grand Rapids, MI - Michigan Cremation & Funeral Care",
+            "source": {
+                "name": "Legacy.com",
+                "icon": "https://lh3.googleusercontent.com/o_0lFl2fAPKjqOvEmyq_DraIlq59MNFVDNLSNrh50vsRoy80WGY_LS6qMIfsYuMs9B2XlBbJ"
+            },
+            "link": "https://www.legacy.com/us/obituaries/name/matthew-larosa-obituary?id=56100090",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/legacyadn/photos/4f7d48bd-10f3-4737-9fc5-e674c63ef4bc.jpgx?w=160&h=160&option=3",
+            "date": "08/26/2024, 08:56 PM, +0000 UTC"
+        },
+        {
+            "position": 52,
+            "title": "18-year-old woman killed in Grand Rapids crash last week identified",
+            "source": {
+                "name": "WZZM13.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wzzm13.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Steven Bohner"
+                ]
+            },
+            "link": "https://www.wzzm13.com/article/news/local/18-year-old-woman-killed-grand-rapids-crash-last-week-identified/69-5d7b14f0-008a-4258-beaf-fdb700987fd4",
+            "thumbnail": "https://media.wzzm13.com/assets/WZZM/images/ef0f18bf-8584-485d-a5d2-b7689a6a2c0c/ef0f18bf-8584-485d-a5d2-b7689a6a2c0c_1140x641.jpg",
+            "date": "08/26/2024, 04:41 PM, +0000 UTC"
+        },
+        {
+            "position": 53,
+            "title": "William Charles Ginebaugh",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/william-ginebaugh-obituary?id=56114362",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0047822-1_20240827.jpgx?w=407&h=500&option=3",
+            "date": "08/27/2024, 05:31 PM, +0000 UTC"
+        },
+        {
+            "position": 54,
+            "title": "JD Vance speaking in Michigan Tuesday",
+            "source": {
+                "name": "WZZM13.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wzzm13.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Riley Mack"
+                ]
+            },
+            "link": "https://www.wzzm13.com/article/news/local/jd-vance-to-speak-michigan-tuesday/69-9103c67f-6a84-4fb9-b400-1c011ea5e607",
+            "thumbnail": "https://media.wzzm13.com/assets/WZZM/images/f8e38321-dfb6-4232-b6de-7fa449492d2d/20240827T211740/f8e38321-dfb6-4232-b6de-7fa449492d2d_1920x1080.jpg",
+            "date": "08/27/2024, 03:53 PM, +0000 UTC"
+        },
+        {
+            "position": 55,
+            "title": "Marvin Bruursema Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/marvin-bruursema-obituary?id=56171814",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0178118-1_20240828.jpgx?w=365&h=499&option=3",
+            "date": "08/28/2024, 09:29 PM, +0000 UTC"
+        },
+        {
+            "position": 56,
+            "title": "Carla Mae Goachee",
+            "source": {
+                "name": "MKD Funeral Homes",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mkdfuneralhome.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.mkdfuneralhome.com/obituaries/carla-mae-goachee",
+            "thumbnail": "https://www.mkdfuneralhome.com/images/obituaries/Obituary_Picture_Edited_15.jpg",
+            "date": "08/26/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 57,
+            "title": "Keanu Reeves has an excellent adventure throughout Grand Rapids area",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Skyla Jewell-hammie"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/keanu-reeves-has-an-excellent-adventure-throughout-grand-rapids-area.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/LTULB23Y4ZAO5MKG4RKXOCOPGI.jpeg?auth=a3a62c91a33dc56632b0b34d35665b91bf3004f7fa0b0eb398cb7361a7b88c2e&width=1280&quality=90",
+            "date": "08/22/2024, 07:51 PM, +0000 UTC"
+        },
+        {
+            "position": 58,
+            "title": "Jim Veen Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/jim-veen-obituary?id=56105403",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210819-1_20240826.jpgx?w=358&h=500&option=3",
+            "date": "08/27/2024, 03:15 AM, +0000 UTC"
+        },
+        {
+            "position": 59,
+            "title": "ROLL OUT THE BARREL: Polish Dozynki Festival in Grand Rapids",
+            "source": {
+                "name": "FOX 17 West Michigan News",
+                "icon": "https://lh3.googleusercontent.com/OET-_MaH3pyCyahcwK_5h_zBFOIJQgHcq9bPlb-w5oq_dA0Iv2D_5SN6OLkkkKqsoD3-IbvoSCY"
+            },
+            "link": "https://www.fox17online.com/news/local-news/grand-rapids/roll-out-the-barrel-polish-dozynki-festival-kicks-off-in-grand-rapids",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/e444a4e/2147483647/strip/true/crop/1236x649+0+19/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F78%2Fcc%2F698dfeb846fa9da19dba225bce5d%2Fscreen-shot-2023-08-27-at-5-20-19-pm.png",
+            "date": "08/23/2024, 09:51 AM, +0000 UTC"
+        },
+        {
+            "position": 60,
+            "title": "GRPD: 21-year-old motorcyclist dies following high-speed crash in Grand Rapids",
+            "source": {
+                "name": "WWMT-TV",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://wwmt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Stephanie Forth"
+                ]
+            },
+            "link": "https://wwmt.com/news/local/motorcyclist-grand-rapids-dead-high-speed-crash-michigan-ave-lawndale-driver-police-officers-traffic-investigation-injuries-wednesday-kent-county-state",
+            "thumbnail": "https://wwmt.com/resources/media/d2caeb8b-29db-4f56-b9cf-57ab155720c7-large16x9_IMG_0238.jpg",
+            "date": "08/28/2024, 09:08 PM, +0000 UTC"
+        },
+        {
+            "position": 61,
+            "title": "Saving abused birds helped this Grand Rapids man tackle his own trauma",
+            "source": {
+                "name": "WZZM13.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wzzm13.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Matt Gard"
+                ]
+            },
+            "link": "https://www.wzzm13.com/article/life/one-good-thing/albatross-aviary-saving-birds/69-5f22c473-93ec-4290-9c33-7920dcea5a70",
+            "thumbnail": "https://media.wzzm13.com/assets/WZZM/images/b72e0113-1bb6-451c-b8c9-24ba543e25dd/20240828T234048/b72e0113-1bb6-451c-b8c9-24ba543e25dd_1920x1080.jpg",
+            "date": "08/28/2024, 07:55 PM, +0000 UTC"
+        },
+        {
+            "position": 62,
+            "title": "Republican vice presidential nominee JD Vance to visit Big Rapids area next week",
+            "source": {
+                "name": "Detroit News",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.detroitnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Hannah Mackay"
+                ]
+            },
+            "link": "https://www.detroitnews.com/story/news/local/michigan/2024/08/23/republican-vice-presidential-nominee-jd-vance-to-visit-big-rapids-next-week/74926092007/",
+            "thumbnail": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/08/14/PDTN/74800575007-du-mond-jd-vance-24081402422.jpg?crop=2736,3642,x1185,y5",
+            "date": "08/24/2024, 12:01 AM, +0000 UTC"
+        },
+        {
+            "position": 63,
+            "title": "Second Gentleman Douglas Emhoff to visit Grand Rapids for campaign event",
+            "source": {
+                "name": "WWMT-TV",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://wwmt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://wwmt.com/news/local/douglas-emhoff-grand-rapids-michigan-visit-campaign-event-donald-trump-kamala-harris-presidential-election-2024-democrat-republican-community-vote-kent-county-state",
+            "thumbnail": "https://wwmt.com/resources/media2/16x9/3936/986/0x209/90/33880491-c167-42a2-8d7f-7b56db167166-AP24236084026134.jpg",
+            "date": "08/28/2024, 07:22 AM, +0000 UTC"
+        },
+        {
+            "position": 64,
+            "title": "West Michigan manufacturer plans up to 200 new jobs, $21M investment",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Brian Mcvicar"
+                ]
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/west-michigan-manufacturer-plans-up-to-200-new-jobs-21m-investment.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/NNOJAODN6JF3JGBXSOUXLQPQDY.jpg?auth=359a1145c6539c373005624cfd00064d374ad1ace5fbda21fcb6224ba89ddf28&width=1280&quality=90",
+            "date": "08/27/2024, 08:00 PM, +0000 UTC"
+        },
+        {
+            "position": 65,
+            "title": "James McCurren Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/james-mccurren-obituary?id=55878828",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210686-1_20240819.jpgx?w=363&h=500&option=3",
+            "date": "08/19/2024, 06:49 PM, +0000 UTC"
+        },
+        {
+            "position": 66,
+            "title": "William Mysliwiec Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/william-mysliwiec-obituary?id=55921308",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210698-1_20240820.jpgx?w=362&h=499&option=3",
+            "date": "08/20/2024, 01:27 PM, +0000 UTC"
+        },
+        {
+            "position": 67,
+            "title": "See when Grand Rapids area schools start back",
+            "source": {
+                "name": "MLive.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.mlive.com/news/grand-rapids/2024/08/see-when-grand-rapids-area-schools-start-back.html",
+            "thumbnail": "https://www.mlive.com/resizer/v2/HJDLNKQMRNB63DLUQQJAY3V3WA.jpg?auth=08f2a143dded16089d616a3c08178bac13e7fa482af2670fa2c76603eb4dbb1a&width=1280&quality=90",
+            "date": "08/19/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 68,
+            "title": "Kirk Miller Obituary (2024) - Grand Rapids, MI - Grand Rapids Cremation Services - Grand Rapids",
+            "source": {
+                "name": "Legacy.com",
+                "icon": "https://lh3.googleusercontent.com/o_0lFl2fAPKjqOvEmyq_DraIlq59MNFVDNLSNrh50vsRoy80WGY_LS6qMIfsYuMs9B2XlBbJ"
+            },
+            "link": "https://www.legacy.com/us/obituaries/name/kirk-miller-obituary?id=56081960",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/legacyadn/photos/2631a374-e2c5-4d96-ba9a-ba98b3cec85f.jpgx?w=340&h=440&option=3",
+            "date": "08/23/2024, 04:25 PM, +0000 UTC"
+        },
+        {
+            "position": 69,
+            "title": "Marcia Markules Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/marcia-markules-obituary?id=56116033",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210829-1_20240827.jpgx?w=361&h=500&option=3",
+            "date": "08/27/2024, 06:45 PM, +0000 UTC"
+        },
+        {
+            "position": 70,
+            "title": "Ari Bronte Callender Obituary (2024) - Grand Rapids, MI - Stroo Funeral Home, Inc.",
+            "source": {
+                "name": "Legacy.com",
+                "icon": "https://lh3.googleusercontent.com/o_0lFl2fAPKjqOvEmyq_DraIlq59MNFVDNLSNrh50vsRoy80WGY_LS6qMIfsYuMs9B2XlBbJ"
+            },
+            "link": "https://www.legacy.com/us/obituaries/name/ari-callender-obituary?id=55959140",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/legacyadn/photos/11f9b098-6638-4330-9dd6-9d327893ba1f.jpgx?w=188&h=250&option=3",
+            "date": "08/20/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 71,
+            "title": "Why \u2018Beer City USA\u2019 is so much more than a drinking town",
+            "source": {
+                "name": "CNN",
+                "icon": "https://lh3.googleusercontent.com/8zdvTbISHUn-4iHkauW-_yQSGPD9BMrx9EWfqTIhiVm2YMYqhHC1HJWNDQoSOkMk0MRPYKxjIg",
+                "authors": [
+                    "Amy Eckert"
+                ]
+            },
+            "link": "https://www.cnn.com/travel/grand-rapids-michigan-best-towns-america/index.html",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/20230701-ah-nab-awen-park-028.jpg?c=original",
+            "date": "06/23/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 72,
+            "title": "Timothy C. Pelletier",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/timothy-pelletier-obituary?id=56097252",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210798-1_20240826.jpgx?w=370&h=500&option=3",
+            "date": "08/26/2024, 04:09 PM, +0000 UTC"
+        },
+        {
+            "position": 73,
+            "title": "Kenneth Earl Visser Jr.",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/kenneth-visser-obituary?id=55361131",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0209351-1_20240617.jpgx?w=364&h=499&option=3",
+            "date": "06/17/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 74,
+            "title": "David Heitz Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/david-heitz-obituary?id=55408041",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0209505-1_20240622.jpgx?w=363&h=499&option=3",
+            "date": "06/22/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 75,
+            "title": "LIST: Labor Day events in West Michigan 2024",
+            "source": {
+                "name": "WOODTV.com",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.woodtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Anna Skog"
+                ]
+            },
+            "link": "https://www.woodtv.com/news/local-news/list-labor-day-events-in-west-michigan-2024/",
+            "thumbnail": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/09/Holland-Zeeland-Labor-Day-Truck-Parade-090423.jpg?strip=1",
+            "date": "08/26/2024, 02:55 PM, +0000 UTC"
+        },
+        {
+            "position": 76,
+            "title": "'Those pipes say the city of Grand Rapids': Neighbors frustrated over water main break that flooded homes",
+            "source": {
+                "name": "FOX 17 West Michigan News",
+                "icon": "https://lh3.googleusercontent.com/OET-_MaH3pyCyahcwK_5h_zBFOIJQgHcq9bPlb-w5oq_dA0Iv2D_5SN6OLkkkKqsoD3-IbvoSCY",
+                "authors": [
+                    "Matt Witkos"
+                ]
+            },
+            "link": "https://www.fox17online.com/news/local-news/grand-rapids/those-pipes-say-the-city-of-grand-rapids-neighbors-frustrated-following-water-main-break-that-flooded-their-homes",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/61e73fb/2147483647/strip/true/crop/2938x1542+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb4%2F92%2F093c1ef948bdaad85fbe4dbb311d%2Fman-rescued-from-car-washed-down-road-blurred-plate-used-with-permission-from-anonymous-viewer.png",
+            "date": "08/26/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 77,
+            "title": "Cheryl Bentley Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/cheryl-bentley-obituary?id=55881694",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210689-1_20240819.jpgx?w=350&h=500&option=3",
+            "date": "08/19/2024, 08:59 PM, +0000 UTC"
+        },
+        {
+            "position": 78,
+            "title": "Trump running mate Sen. JD Vance to visit Big Rapids Tuesday",
+            "source": {
+                "name": "Detroit Free Press",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Paul Egan"
+                ]
+            },
+            "link": "https://www.freep.com/story/news/politics/elections/2024/08/23/trump-running-mate-vance-visits-big-rapids/74924238007/",
+            "thumbnail": "https://www.freep.com/gcdn/authoring/authoring-images/2024/08/07/PDTF/74706507007-08072024-jd-vance-drm-015.JPG?crop=3199,1800,x0,y171&width=660&height=371&format=pjpg&auto=webp",
+            "date": "08/23/2024, 09:05 PM, +0000 UTC"
+        },
+        {
+            "position": 79,
+            "title": "Davis Alan Young",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/davis-young-obituary?id=56037670",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210732-1_20240821.jpgx?w=362&h=499&option=3",
+            "date": "08/21/2024, 08:55 PM, +0000 UTC"
+        },
+        {
+            "position": 80,
+            "title": "George Marion Ignatoski",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/george-ignatoski-obituary?id=55922068",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210699-1_20240820.jpgx?w=364&h=500&option=3",
+            "date": "08/20/2024, 01:31 PM, +0000 UTC"
+        },
+        {
+            "position": 81,
+            "title": "Ruth Ann Willis Obituary (2024) - Grand Rapids, MI - Grand Rapids Cremation Services - Grand Rapids",
+            "source": {
+                "name": "Legacy.com",
+                "icon": "https://lh3.googleusercontent.com/o_0lFl2fAPKjqOvEmyq_DraIlq59MNFVDNLSNrh50vsRoy80WGY_LS6qMIfsYuMs9B2XlBbJ"
+            },
+            "link": "https://www.legacy.com/us/obituaries/name/ruth-willis-obituary?id=56167707",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/legacyadn/photos/19187a3c-8f6e-49a5-a9e5-fbff3b8b071b.jpgx?w=340&h=440&option=3",
+            "date": "08/28/2024, 03:50 PM, +0000 UTC"
+        },
+        {
+            "position": 82,
+            "title": "Grand Rapids Public, Other Schools Cancel Classes Due to Heat",
+            "source": {
+                "name": "Mix 95.7FM - Today's Variety",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mix957gr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Wendy Reed"
+                ]
+            },
+            "link": "https://mix957gr.com/grand-rapids-public-other-schools-cancel-classes-due-to-heat/",
+            "thumbnail": "https://townsquare.media/site/44/files/2024/08/attachment-Untitled-design.jpg?w=780&q=75",
+            "date": "08/26/2024, 08:02 PM, +0000 UTC"
+        },
+        {
+            "position": 83,
+            "title": "Ronald Arbanas Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/ronald-arbanas-obituary?id=55471505",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0209683-1_20240701.jpgx?w=364&h=500&option=3",
+            "date": "07/01/2024, 10:31 PM, +0000 UTC"
+        },
+        {
+            "position": 84,
+            "title": "James Mast Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/james-mast-obituary?id=55538039",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0209857-1_20240710.jpgx?w=374&h=500&option=3",
+            "date": "07/10/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 85,
+            "title": "Grand Rapids, MI \u2013 Accident Reported on Alpine Ave NW",
+            "source": {
+                "name": "Michigan Legal Center",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.michiganlegalcenter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.michiganlegalcenter.com/2024/08/27/grand-rapids-mi-accident-reported-on-alpine-ave-nw/",
+            "thumbnail": "https://www.michiganlegalcenter.com/wp-content/uploads/2024/08/LawFirmPictures-173-2.jpg",
+            "date": "08/27/2024, 11:45 AM, +0000 UTC"
+        },
+        {
+            "position": 86,
+            "title": "Warren Pranger Obituary (1953 - 2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/warren-pranger-obituary?id=56128494",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210841-1_20240827.jpgx?w=363&h=499&option=3",
+            "date": "08/27/2024, 08:55 PM, +0000 UTC"
+        },
+        {
+            "position": 87,
+            "title": "Robert VanderTuin Obituary (2024) - Jenisoin, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/robert-vandertuin-obituary?id=55871309",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210664-1_20240817.jpgx?w=457&h=499&option=3",
+            "date": "08/16/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 88,
+            "title": "Gerald VanderPlas Obituary (1953 - 2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/gerald-vanderplas-obituary?id=56128495",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210840-1_20240827.jpgx?w=354&h=499&option=3",
+            "date": "08/26/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 89,
+            "title": "Donald Gerard Obituary (1930 - 2024) - Lowell, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/donald-gerard-obituary?id=55878993",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210688-1_20240819.jpgx?w=403&h=500&option=3",
+            "date": "08/18/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 90,
+            "title": "Dean Haney Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/dean-haney-obituary?id=55102799",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0208584-1_20240514.jpgx?w=363&h=499&option=3",
+            "date": "05/14/2024, 05:25 PM, +0000 UTC"
+        },
+        {
+            "position": 91,
+            "title": "Erik Kooyer Obituary (1966 - 2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/erik-kooyer-obituary?id=55496555",
+            "date": "06/30/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 92,
+            "title": "Nancy Wielinga Obituary (1942 - 2024) - Irons, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/nancy-wielinga-obituary?id=56168427",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210849-1_20240828.jpgx?w=375&h=500&option=3",
+            "date": "08/27/2024, 02:03 PM, +0000 UTC"
+        },
+        {
+            "position": 93,
+            "title": "John O'Neill Obituary (1936 - 2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/john-o-neill-obituary?id=55419265",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0209538-1_20240624.jpgx?w=500&h=500&option=3",
+            "date": "06/22/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 94,
+            "title": "Kenneth West Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/kenneth-west-obituary?id=55343784",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0209298-1_20240614.jpgx?w=364&h=500&option=3",
+            "date": "06/14/2024, 01:16 PM, +0000 UTC"
+        },
+        {
+            "position": 95,
+            "title": "Eric Charles Zant",
+            "source": {
+                "name": "MKD Funeral Homes",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mkdfuneralhome.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.mkdfuneralhome.com/obituaries/eric-charles-zant",
+            "thumbnail": "https://www.mkdfuneralhome.com/images/obituaries/Zant-_photo.jpg",
+            "date": "04/30/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 96,
+            "title": "James Hirt Obituary (2024) - Grand Rapids, MI - Grand Rapids Cremation Services - Grand Rapids",
+            "source": {
+                "name": "Legacy.com",
+                "icon": "https://lh3.googleusercontent.com/o_0lFl2fAPKjqOvEmyq_DraIlq59MNFVDNLSNrh50vsRoy80WGY_LS6qMIfsYuMs9B2XlBbJ"
+            },
+            "link": "https://www.legacy.com/us/obituaries/name/james-hirt-obituary?id=56168491",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/legacyadn/photos/0cba66b3-41eb-489a-ae48-f3da50659681.jpgx?w=340&h=440&option=3",
+            "date": "08/28/2024, 05:03 PM, +0000 UTC"
+        },
+        {
+            "position": 97,
+            "title": "One dead after single car crash in Grand Rapids, police seek help in identifying woman",
+            "source": {
+                "name": "WWMT-TV",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://wwmt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://wwmt.com/news/local/one-dead-after-single-car-crash-in-grand-rapids-police-seek-help-in-identifying-woman-breton-southeast-28th-street-suv",
+            "thumbnail": "https://wwmt.com/resources/media/e43f6bf4-f3e6-415d-acd6-e03768ef276c-large16x9_IMG_0239.jpg",
+            "date": "08/23/2024, 01:14 PM, +0000 UTC"
+        },
+        {
+            "position": 98,
+            "title": "Kevin Trumbull Obituary (1976 - 2024) - Shelbyville, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/kevin-trumbull-obituary?id=56020263",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0210721-1_20240821.jpgx?w=470&h=500&option=3",
+            "date": "08/19/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 99,
+            "title": "Kristen Herweyer Obituary (1977 - 2024) - Rockford, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/kristen-herweyer-obituary?id=55342348",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0209295-1_20240614.jpgx?w=361&h=499&option=3",
+            "date": "06/11/2024, 07:00 AM, +0000 UTC"
+        },
+        {
+            "position": 100,
+            "title": "Lois MacLaren Obituary (2024) - Grand Rapids, MI",
+            "source": {
+                "name": "Grand Rapids Press Obituaries",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://obits.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://obits.mlive.com/us/obituaries/grandrapids/name/lois-maclaren-obituary?id=55541999",
+            "thumbnail": "https://cache.legacy.net/legacy/images/cobrands/grandrapids/photos/WM0209883-1_20240710.jpgx?w=365&h=499&option=3",
+            "date": "07/10/2024, 07:00 AM, +0000 UTC"
+        }
+    ],
+    "menu_links": [
+        {
+            "title": "U.S.",
+            "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+        },
+        {
+            "title": "World",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Your local news",
+            "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+        },
+        {
+            "title": "Business",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Technology",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Entertainment",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Sports",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Science",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Health",
+            "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+        }
+    ]
+}
