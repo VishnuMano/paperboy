@@ -16,19 +16,18 @@ const Navbar = () => {
         <li className='p-4'>Problem</li>
         <li className='p-4'>Team</li>
         <li className='p-4'>Support</li>
-        <li className='p-4'>Algorithm</li>
-        <li className='p-4'>Downloads</li>
+        <li className='p-4'>Source Code</li>
       </ul>
       <div onClick={handleNav} className='block md:hidden'>
           {nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20} />}
       </div>
       <ul className={nav ? 'fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-black ease-in-out duration-500' : 'ease-in-out duration-500 fixed left-[-100%]'}>
         <h1 className='w-full text-3xl font-bold text-[#E8C547] m-4'>PAPERBOY</h1>
-          <li className='p-4 border-b border-gray-600'>START</li>
-          <li className='p-4 border-b border-gray-600'>ABOUT</li>
+          <li className='p-4 border-b border-gray-600'>SUBSCRIBE</li>
+          <li className='p-4 border-b border-gray-600'>PROBLEM</li>
           <li className='p-4 border-b border-gray-600'>TEAM</li>
-          <li className='p-4 border-b border-gray-600'>CONTACT</li>
-          <li className='p-4'>Contact</li>
+          <li className='p-4 border-b border-gray-600'>SUPPORT</li>
+          <li className='p-4 border-b border-gray-600'>SOURCE CODE</li>
       </ul>
     </div>
   )
