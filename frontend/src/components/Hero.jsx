@@ -1,9 +1,23 @@
 import React, { Fragment, useState } from 'react'
 import { ReactTyped } from "react-typed";
 import SubscribeModal from './SubscribeModal';
+import { db } from "../firebase-config";
+import { collection, addDoc } from 'firebase/firestore';
 
 const Hero = () => {
   const [showModal, setShowModal] = useState(false)
+  const subscribersCollectionRef = collection(db, "subscribers")
+  const [newFNAME, setNewFNAME] = useState("")
+  const [newLNAME, setNewLNAME] = useState("")
+  const [newEMAIL, setNewEMAIL] = useState("")
+  const [newCITY, setNewCITY] = useState("")
+  const [newSTATE, setNewSTATE] = useState("")
+
+  const addSubscriber = async() => {
+    await addDoc(subscribersCollectionRef, {fname: newFNAME, lname: newLNAME, email: newEMAIL, city: newCITY, state: newSTATE})
+    setShowModal(false)
+  }
+
   return (
     <Fragment>
     <div className='text-white'>
@@ -11,7 +25,7 @@ const Hero = () => {
             <p className='text-[#E8C547] font-bold p-2'>DELIVERED TO YOUR INBOX DAILY</p>
             <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-6'>Local News Redefined.</h1>
             <div className='flex justify-center items-center'>
-                <p className='md:text-4xl sm:text-3xl text-xl py-4'>Top stories from</p>
+                <p className='md:text-4xl sm:text-3xl text-xl py-4'>Top headlines from</p>
                 <ReactTyped
                     strings={['Grand Rapids, MI', 'Atlanta, GA', 'Chicago, IL', 'San Mateo, CA', 'Orlando, FL', 'Charleston, SC', 'Tulsa, OK']}
                     typeSpeed={100} 
@@ -20,7 +34,7 @@ const Hero = () => {
                     className='md:text-4xl sm:text-3xl text-xl pl-2 text-[#E8C547]'
                 />
             </div>
-            <p className='md:text-2xl text-xl text-gray-500'>A 5-headline newsletter that gives you all the local updates you need 🗞️</p>
+            <p className='md:text-2xl text-xl text-gray-500'>A 5-story dynamic newsletter that gives you all the local updates you need 🗞️</p>
             <button onClick={() => setShowModal(true)} className='bg-[#E8C547] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-[#000300]'>Subscribe</button>
             <SubscribeModal isVisible={showModal} onClose={() => setShowModal(false)}>
               <div className="py-6 px-6 lg:px-8 text-left">
@@ -37,7 +51,8 @@ const Hero = () => {
                       name="fname"
                       id="fname"
                       className='my-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-black-500 focus:border-black-500 block w-full p-2.5' placeholder="Uncle"
-                      required  
+                      onChange={(event) => {setNewFNAME(event.target.value)}}
+                      required
                     />
                     <label for="lname" className="block mb-2 text-sm font-medium text-gray-900">
                       Last Name
@@ -47,6 +62,7 @@ const Hero = () => {
                       name="lname"
                       id="lname"
                       className='my-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-black-500 focus:border-black-500 block w-full p-2.5' placeholder="Sam"
+                      onChange={(event) => {setNewLNAME(event.target.value)}}
                       required  
                     />
                     <label for="email" className="block mb-2 text-sm font-medium text-gray-900">
@@ -57,7 +73,8 @@ const Hero = () => {
                       name="email"
                       id="email"
                       className='my-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-black-500 focus:border-black-500 block w-full p-2.5' placeholder="name@company.com"
-                      required  
+                      onChange={(event) => {setNewEMAIL(event.target.value)}}
+                      required
                     />
                     <label for="city" className="block mb-2 text-sm font-medium text-gray-900">
                       City
@@ -67,6 +84,7 @@ const Hero = () => {
                       name="city"
                       id="city"
                       className='my-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-black-500 focus:border-black-500 block w-full p-2.5' placeholder="Buckhead"
+                      onChange={(event) => {setNewCITY(event.target.value)}}
                       required
                     />
                     <label for="state" className="block mb-2 text-sm font-medium text-gray-900">
@@ -77,11 +95,13 @@ const Hero = () => {
                       name="state"
                       id="state"
                       className='my-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-black-500 focus:border-black-500 block w-full p-2.5' placeholder="GA"
+                      onChange={(event) => {setNewSTATE(event.target.value)}}
                       required
                     />
                     <button
-                      type="submit"
+                      onClick={addSubscriber}
                       className="w-full bg-[#E8C547] rounded-md font-medium my-6 mx-auto px-4 py-2 text-[#000300]"
+                      type="button"
                     >
                       Subscribe
                     </button>
