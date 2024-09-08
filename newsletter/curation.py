@@ -1,40 +1,19 @@
-from serpapi import GoogleSearch
-from dotenv import load_dotenv
 import os
-import json
-import requests
+from dotenv import load_dotenv
+from serpapi import GoogleSearch
 
-headers = {
-	"x-rapidapi-key": "5f6deedd2bmsh23d2143520e93e9p14dd63jsnbbc5f79ad818",
-	"x-rapidapi-host": "article-extractor-and-summarizer.p.rapidapi.com"
-}
+def getArticles(city, state):
+    load_dotenv()
 
-# Load environment variables from .env file
-load_dotenv()
+    params = {
+        "engine": "google_news",
+        "q": f"{city}, {state}",
+        "gl": "us",
+        "hl": "en",
+        "api_key": os.getenv('SERP_API_KEY')
+    }
 
-# Access your API key
-api_key = os.getenv('NEWS_API_KEY')
-
-# city = input("City: ")
-city = "Atlanta, GA"
-
-params = {
-  "api_key": api_key,
-  "engine": "google_news",
-  "gl": "us",
-  "q": city
-}
-
-search = GoogleSearch(params)
-results = search.get_dict()
-# print(type(results["news_results"]))
-# with open('data.json', 'w') as file:
-#     json.dump(results, file, indent=4)
-
-url = "https://article-extractor-and-summarizer.p.rapidapi.com/summarize"
-for i in range(0, 5):
-    querystring = {"url":results["news_results"][i]["link"],"lang":"en","engine":"2"}
-    response = requests.get(url, headers=headers, params=querystring)
-    json_summary = response.json()
-    print(json_summary)
-    print("\n")
+    search = GoogleSearch(params)
+    results = search.get_dict()
+    news_results = results["news_results"]
+    return news_results
