@@ -26,7 +26,7 @@ const Navbar = ({ scrollToNews, scrollToTeam, scrollToSupport }) => {
         <li className='p-4 border-b border-gray-600 cursor-pointer' onClick={scrollToNews}>PROBLEM</li>
         <li className='p-4 border-b border-gray-600 cursor-pointer' onClick={scrollToTeam}>TEAM</li>
         <li className='p-4 border-b border-gray-600 cursor-pointer' onClick={scrollToSupport}>SUPPORT</li> {/* Scroll to Support */}
-        <li className='p-4 border-b border-gray-600'>CODE</li>
+        <a href="https://github.com/VishnuMano/paperboy"><li className='p-4 border-b border-gray-600'>CODE</li></a>
       </ul>
     </div>
   );
