@@ -41,6 +41,9 @@ const Hero = () => {
                 <h3 className="mb-4 text-xl font-medium text-gray-900">
                   Join the Paper Route 🤓
                 </h3>
+                <h2 className="mb-4 text-sm font-medium text-gray-700">
+                  Alert: Subscriptions for Beta are Currently Closed!
+                </h2>
                 <form action="#" className="space-y-6">
                   <div>
                     <label for="fname" className="block mb-2 text-sm font-medium text-gray-900">
